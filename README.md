@@ -1,2 +1,3 @@
 # localized-dynamic-editor
-Localized Skill Api Dynamic Editor
+A Localized version of Skill Api Dynamic Editor  
+[See the original version](https://github.com/Eniripsa96/SkillAPI)
